@@ -34,8 +34,6 @@ cc_prebuilt_library {
     prefer: true,
     visibility: [
         "//external/webrtc:__subpackages__",
-        "//apex_available:platform",
-        "//apex_available:anyapex",
     ],
     apex_available: [
         "//apex_available:platform",
