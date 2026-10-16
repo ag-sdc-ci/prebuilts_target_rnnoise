@@ -1,0 +1,27 @@
+{
+	"provideLibs": [	
+		    "libdummy_binary_librnnoise-rnn-vad-x86_64-v2.so.so",
+		    "libdummy_binary_librnnoise-rnn-vad.a-x86_64-v2.so",
+		    "libdummy_binary_librnnoise-rnn-vad.a.so",
+		    "libdummy_binary_librnnoise-rnn-vad.so.so",
+		    "libdummy_binary_librnnoise.a-x86_64-v2.so",
+		    "libdummy_binary_librnnoise.a.so",
+		    "libdummy_binary_rnnoise-rnn-vad-x86_64-v2.so.so",
+		    "libdummy_binary_rnnoise-rnn-vad.a-x86_64-v2.so",
+		    "libdummy_binary_rnnoise-rnn-vad.a.so",
+		    "libdummy_binary_rnnoise-rnn-vad.so.so",
+		    "libdummy_ext_rnnoise-x86_64-v2.so",
+		    "libdummy_ext_rnnoise.so",
+		    "libdummy_headers_ext_rnnoise-x86_64-v2.so",
+		    "libdummy_headers_ext_rnnoise.so",
+		    "librnnoise-x86_64-v2.so",
+		    "librnnoise.so"
+	],
+	"requireLibs": [	
+		    "libc++_shared.so",
+		    "libc.so",
+		    "libdl.so",
+		    "libm.so"
+	],
+	"visible": true
+}
